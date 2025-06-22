@@ -1,0 +1,22 @@
+# as step 5 we have to select a column or row for data manipulation and changes 
+
+# as that use square bracets for that
+
+# then we have to filter the data with using boolean filter by conditions
+
+# selecting a column 
+# 1 - a series 
+# 2 - dataframe multiple column of data
+
+# colummn = df["column name"]
+# subset = df["column1","column2","column3","",...]
+
+
+# filtering rows
+# boolean indexing
+
+# based on single condition
+# filtered row = df[df["salary"] > 50000]
+
+# multiple condition
+# filtered row = df[(df["salary"] > 50000) & (df["salary"] < 80000)]

@@ -1,0 +1,13 @@
+we can identify the missing values by these
+
+first is NaN(Not a Number)
+second is None(for object data type)
+
+wen have some methods to identify it 
+
+isnull()
+that return in True-False data frame 
+
+True - value is missing
+False -  value is not missing
+

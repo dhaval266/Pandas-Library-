@@ -1,0 +1,18 @@
+1 - understand the data set
+2 - identify the problems
+3 - plan next steps
+
+if we habve this type of problems 
+
+1 - not know how many rows and column ?
+2 - not know the column name ?
+3 - missing data ?
+
+we get a method name is info() that provide such this type of data
+
+1 - number of rows and columns
+2 - column name
+3 - data types of columns 
+4 - non null and count of that 
+5 - memory usage of data frame
+
